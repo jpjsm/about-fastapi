@@ -1,0 +1,6 @@
+{
+    "tenantUUID" : "slx01008",
+    "tenantToken" : "UxLguU1R3FfuIFay",
+    "communicationEndpoints" : [ "https://sg-us-west-2-44-242-35-15-prod59-oregon.live.dynatrace.com/communication", "https://sg-us-west-2-54-185-86-96-prod59-oregon.live.dynatrace.com/communication", "https://sg-us-west-2-34-211-84-234-prod59-oregon.live.dynatrace.com/communication", "https://slx01008.live.dynatrace.com:443" ],
+    "formattedCommunicationEndpoints" : "https://sg-us-west-2-44-242-35-15-prod59-oregon.live.dynatrace.com/communication;https://sg-us-west-2-54-185-86-96-prod59-oregon.live.dynatrace.com/communication;https://sg-us-west-2-34-211-84-234-prod59-oregon.live.dynatrace.com/communication;https://slx01008.live.dynatrace.com:443"
+  }
